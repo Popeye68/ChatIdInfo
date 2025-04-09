@@ -1,8 +1,16 @@
-# 🤖 ChatID Info Bot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/popeye68/chatidinfo/main/botpic.png" alt="ChatID Info Bot" width="200">
+</p>
 
+# 🤖 ChatID Info Bot  
 > A slick Telegram bot to **fetch chat IDs** from users, groups, or channels using interactive buttons — with **zero Telegram restrictions**.  
+> 📍 No need to guess chat IDs anymore. Just click a button and let the bot handle the rest.
 
-📍 No need to guess chat IDs anymore. Just click a button and let the bot handle the rest.
+<p align="center">
+  <a href="http://t.me/Get_chatid_infobot">
+    <img src="https://img.shields.io/badge/Run%20Bot-@Get_chatid_infobot-blue?logo=telegram" alt="Run Bot">
+  </a>
+</p>
 
 ---
 
@@ -34,12 +42,13 @@ Clone the repo and deploy it on your favorite platform.
 
 ### 1️⃣ One-Click Deploy
 
-| Platform  | Deploy |
-|----------|--------|
-| 🟦 Koyeb | [![Deploy on Koyeb](https://www.koyeb.com/static/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/popeye68/chatidinfo&branch=main&name=chatidinfo) |
-| 🟨 Replit | [![Run on Replit](https://replit.com/badge/github/popeye/chatidinfo)](https://replit.com/github/popeye68/chatidinfo) |
-| 🟥 Heroku | [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/popeye68/chatidinfo) |
-| 🟪 Glitch | [![Remix on Glitch](https://cdn.glitch.global/4f08d8e5-6658-42cb-8857-1762b9ef0c99/remix-button.svg?v=1682192236993)](https://glitch.com/edit/#!/import/github/popeye68/chatidinfo) |
+| Platform   | Deploy |
+|------------|--------|
+| 🟦 Koyeb    | [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/popeye68/chatidinfo&branch=main&name=chatidinfo) |
+| 🟨 Replit   | [![Run on Replit](https://replit.com/badge/github/popeye68/chatidinfo)](https://replit.com/github/popeye68/chatidinfo) |
+| 🟥 Heroku   | [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/popeye68/chatidinfo) |
+| 🟪 Glitch   | [![Remix on Glitch](https://img.shields.io/badge/Remix_on-Glitch-purple?logo=glitch)](https://glitch.com/edit/#!/import/github/popeye68/chatidinfo) |
+
 
 ---
 
@@ -62,9 +71,10 @@ git clone https://github.com/popeye68/chatidinfo
 cd chatidinfo
 npm install
 node index.js
+```
 
-/**
- * 🤖 ChatID Info Bot - Developer Note
+
+## 🤖 ChatID Info Bot - Developer Note
  *
  * This bot uses `node-telegram-bot-api` and inline keyboard buttons
  * to bypass restrictions that normally prevent bots from accessing `chat.id`
@@ -76,8 +86,7 @@ node index.js
  * 🔐 No sensitive user data is stored.
  *
  * Feel free to fork and customize for your own needs.
- * GitHub: https://github.com/popeye68/chatidinfo
- */
+
 
 ---
 
