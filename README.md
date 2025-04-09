@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/popeye68/chatidinfo/main/botpic.png" alt="ChatID Info Bot" width="200">
+  <img src="https://raw.githubusercontent.com/popeye68/chatidinfo/main/bot-img.png" alt="ChatID Info Bot" width="200">
 </p>
 
 # 🤖 ChatID Info Bot  
@@ -38,7 +38,7 @@
 
 Clone the repo and deploy it on your favorite platform.
 
-> 📦 Repository: [popeye/chatidinfo](https://github.com/popeye/chatidinfo)
+> 📦 Repository: [popeye68/chatidinfo](https://github.com/popeye68/chatidinfo)
 
 ### 1️⃣ One-Click Deploy
 
