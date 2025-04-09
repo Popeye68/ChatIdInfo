@@ -1,0 +1,16 @@
+{
+  "name": "ChatID Info Bot",
+  "description": "A slick Telegram bot to fetch chat IDs using inline buttons — zero Telegram restrictions.",
+  "repository": "https://github.com/popeye68/chatidinfo",
+  "logo": "https://raw.githubusercontent.com/popeye68/chatidinfo/main/bot-img.png",
+  "keywords": ["telegram", "bot", "chatid", "nodejs"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot API token from @BotFather",
+      "required": true
+    }
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
